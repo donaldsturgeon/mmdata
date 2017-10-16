@@ -1,0 +1,4 @@
+name,type,required,title.en,title.zh,searchable,description.enprimary_id,text,y,Primary ID,Primary ID,y,A unique (within this data file) identifier for this rowperson_id,text,y,Person_ID,人物代碼,y,A unique (within this data file) identifier for this personperson_name,text,y,Name,人名,y,Name of the person
+born_year,number,n,Year born,生年,y,Born in year
+died_year,number,n,Year died,末年,y,Died in year
+gender,text,n,Gender,性別,y,Gender
