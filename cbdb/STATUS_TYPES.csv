@@ -1,0 +1,10 @@
+c_status_type_code,c_status_type_desc,c_status_type_chn
+00,[Unknown],"[未詳]"
+01,Occupation,
+02,Scholarship,
+03,"Military Distinction",
+04,"Imperial Clan",
+05,"Artistic Distinction",
+06,"Religious Distinction",
+07,"Life Events",
+08,"Commoner Activity",

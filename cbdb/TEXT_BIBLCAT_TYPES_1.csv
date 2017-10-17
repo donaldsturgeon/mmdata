@@ -1,0 +1,195 @@
+c_text_cat_code,c_text_cat_desc,c_text_cat_desc_chn,c_text_cat_pinyin,c_text_cat_type_id
+0,unknown,"未知",unknown,0110000
+1,"Individual Literary Collections","别集","bie ji",0110400
+2,"Historical Miscellanies","雜史","za shi",0110205
+3,"Local Histories","方志總志","fang zhi zong zhi",0110213
+4,"Local History Miscellanies","雜志","za zhi",0110213
+5,"Local History Topics","專志","zhuan zhi",0110213
+6,"Stele Inscriptions","金石","jin shi",0110215
+7,Collections,"叢書","cong shu",0110314
+8,Biographies,"專傳合傳","zhuan zhuan he zhuan",0110210
+9,"Chronological Biographies","年譜","nian pu",0110210
+10,"Confucianism: Rituals and Instructions","禮教","li jiao",0110302
+11,"Edicts and Memorials","詔令奏議","zhao ling zou yi",0110211
+13,"Travel Diaries","遊記","you ji",0110213
+14,Genealogies,"譜牒/譜錄","pu die / pu lu",0110210
+15,Diaries,"日記雜錄","ri ji za lu",0110210
+17,"General Interpretation of Classics","群經總義/經解","qun jing zong yi / jing jie",0110100
+18,"Book of Change","易",Yi,0110101
+19,"Book of Documents","書",Shu,0110102
+20,"Book of Odes","詩",Shi,0110103
+21,"Rital Classics and associated works","禮 (籠統)","Li (long tong)",0110104
+22,"Rites of Zhou","周禮","Zhou li",0110104
+23,"Ceremonial Rites","儀禮","Yi li",0110104
+24,"Record of Rites","禮記","Li ji",0110104
+25,"Greater Dai Record of Rites","大戴禮記","Da dai li ji",0110104
+26,Music,"樂",Yue,0110105
+27,"Spring and Autumn Annals and associated works","春秋 (籠統)","Chun qiu (long tong)",0110106
+28,"Spring and Autumn Annals: Zuo Commentary","春秋左傳","Chun qiu zuo zhuan",0110106
+29,"Spring and Autumn Annals: Gongyang Commentary","春秋公羊傳","Chun qiu gong yang zhuan",0110106
+30,"Spring and Autumn Annals: Guliang Commentary","春秋穀梁傳","Chun qiu gu liang zhuan",0110106
+31,"General Interpretation of Four Books","四書合刻總義","si shu he ke zong yi",0110107
+32,"Great Learning","大學","Da xue",0110107
+33,"Doctrine of the Mean","中庸","Zhong yong",0110107
+34,Analects,"論語","Lun yu",0110107
+35,Mencius,"孟子","Meng zi",0110107
+36,"Classics of Filial Piety","孝經","Xiao jing",0110108
+38,Philology,"小學","xiao xue",0110110
+39,Apocrypha,"讖緯","chen wei",0110111
+40,"Official Histories","正史","zheng shi",0110201
+41,Chronicles,"編年","bian nian",0110203
+42,"Chronologies of Events","紀事本末","ji shi ben mo",0110204
+43,"Unofficial Histories","别史","bie shi",0110202
+45,"History of Local Regimes","載記/霸史","zai ji / ba shi",0110206
+46,"Historical Tables","史表","shi biao",0110207
+47,"Selections from histories","史鈔","shi chao",0110208
+48,"Criticism of History","史評","shi ping",0110209
+49,"State Documents","政書","zheng shu",0110211
+50,Institutions,"職官","zhi guan",0110211
+51,"Seasonal regulations","時令","shi ling",0110212
+52,"Mountains and Rivers","山水","shan shui",0110213
+53,"Miscellanies at Home and Abroad","中外雜紀","zhong wai zai ji",0110213
+54,Catalogues,"目錄","mu lu",0110214
+55,"General Discussions on Masters in Zhou and Qin Dynasties","周秦諸子總論","Zhou Qin zhu zi zong lun",0110301
+56,"Confucianism: Nature and Principle","性理","xing li",0110302
+57,"Confucianism: Statecraft","經濟","jing ji",0110302
+58,Military,"兵書/兵家","bing shu / bing jia",0110303
+59,Legalists,"法家","fa jia",0110301
+60,"School of Names","名家","ming jia",0110301
+61,Moists,"墨家","mo jia",0110301
+62,Rhetoricians,"縱橫家","zong heng jia",0110301
+63,Agriculture,"農家","nong jia",0110301
+64,Craftsmanship,"工藝","gong yi",0110305
+65,Medicine,"醫家/醫書","yi jia / yi shu",0110306
+66,Astronomy,"天文","tian wen",0110307
+67,"Arts of Divination","術數","shu shu",0110308
+68,Arts,"藝術","yi shu",0110309
+69,"Miscellaneous Treatises","雜學","za xue",0110310
+70,Precedents,"典故/故事","dian gu",0110311
+71,Anecdotes,"小說","xiao shuo",0110312
+72,Daoists,"道教/道家","dao jiao / dao jia",0110313
+73,Buddhists,"佛教/釋氏","fo jiao / Shi shi",0110313
+74,"Other Religions","其他宗教","qi ta zong jiao",0110313
+75,"Chu Ci","楚辭","chu ci",0110400
+76,"General Literary Collections","總集","zong ji",0110400
+77,"Literary History","詩文評","shi wen ping",0110400
+78,Lyrics,"詞曲","ci qu",0110400
+79,"Ceremonial Specifications","儀注","yi zhu",0110211
+80,"Law and Punishments","刑法","xing fa",0110211
+81,"Four Books and associated works","四書（籠統）","Si shu (long tong)",0110107
+82,"Er Ya","爾雅","Er ya",0110109
+83,,"小學：說文","xiao xue: shuo wen",0110110
+84,,"小學：字書","xiao xue: zi shu",0110110
+85,"Philology: phonology","小學：音韻","xiao xue: yin yun",0110110
+86,"Philology: Semantics","小學：訓詁","xiao xue: xun gu",0110110
+87,"雜史：事實","雜史：事實","za shi: shi shi",0110205
+88,"雜史：瑣記","雜史：瑣記","za shi: suo ji",0110205
+89,"金石：總志","金石：總志","jin shi: zong zhi",0110215
+90,"金石：金屬","金石：金屬","jin shi: jin shu",0110215
+91,"金石：錢幣","金石：錢幣","jin shi: qian bi",0110215
+92,"金石：璽印","金石：璽印","jin shi: xi yin",0110215
+93,"金石：石","金石：石","jin shi: shi",0110215
+94,"金石：玉","金石：玉","jin shi: yu",0110215
+95,"金石：甲骨","金石：甲骨","jin shi: jia gu",0110215
+96,"金石：匋","金石：匋","jin shi: tao",0110215
+97,"金石：竹木","金石：竹木","jin shi: zhu mu",0110215
+98,"金石：郡邑","金石：郡邑","jin shi: jun yi",0110215
+99,"史評：義法","史評：義法","shi ping: yi fa",0110209
+100,"史評：議論","史評：議論","shi ping: yi lun",0110209
+101,"史評：考訂","史評：考訂","shi ping: kao ding",0110209
+102,"史評：詠史","史評：詠史","shi ping: yong shi",0110209
+103,"政書：通制","政書：通制","zheng shu: tong zhi",0110211
+104,"政書：邦計","政書：邦計","zheng shu: bang ji",0110211
+105,"政書：邦交","政書：邦交","zheng shu: bang jiao",0110211
+106,"政書：軍政","政書：軍政","zheng shu: jun zheng",0110211
+107,"政書：考工","政書：考工","zheng shu: kao gong",0110211
+108,"政書：掌故瑣記","政書：掌故瑣記","zheng shu: zhang gu suo ji",0110211
+109,"政書：詔令","政書：詔令","zheng shu: zhao ling",0110211
+110,"政書：公牘","政書：公牘","zheng shu: gong du",0110211
+111,"目錄：通論","目錄：通論","mu lu: tong lun",0110214
+112,"目錄：總錄","目錄：總錄","mu lu: zong lu",0110214
+113,"目錄：書志","目錄：書志","mu lu: shu zhi",0110214
+114,"目錄：專錄","目錄：專錄","mu lu: zhuan lu",0110214
+115,"目錄：版刻","目錄：版刻","mu lu: ban ke",0110214
+116,"目錄：索引","目錄：索引","mu lu: suo yin",0110214
+117,Geographies,"地理（籠統）","di li (long tong)",0110213
+118,"地理：總志","地理：總志","di li: zong zhi",0110213
+119,"周秦諸子（籠統）","周秦諸子（籠統）","Zhou Qin zhu zi (long tong)",0110301
+120,"周秦諸子：儒家","周秦諸子：儒家","Zhou Qin zhu zi: ru jia",0110301
+121,"周秦諸子：道家","周秦諸子：道家","Zhou Qin zhu zi: dao jia",0110301
+122,"周秦諸子：雜家","周秦諸子：雜家","Zhou Qin zhu zi: za jia",0110301
+123,"周秦諸子：小說家","周秦諸子：小說家","Zhou Qin zhu zi: xiao shuo jia",0110301
+124,"兵書：兵法","兵書：兵法","bing shu: bing fa",0110303
+125,"兵書：技巧","兵書：技巧","bing shu: ji qiao",0110303
+126,Confucians,"儒學/儒家（籠統）","ru xue / ru jia (long tong)",0110302
+127,"農書（籠統）","農書（籠統）","nong shu (long tong)",0110304
+128,"農書：總論","農書：總論","nong shu: zong lun",0110304
+130,"農書：耕作土壤","農書：耕作土壤","nong shu: geng zuo tu rang",0110304
+131,"農書：農具","農書：農具","nong shu: nong ju",0110304
+132,"農書：災害防治","農書：災害防治","nong shu: za hai fang zhi",0110304
+133,"農書：作物","農書：作物","nong shu: zuo wu",0110304
+134,"農書：蠶桑","農書：蠶桑","nong shu: can sang",0110304
+135,"農書：園藝","農書：園藝","nong shu: yuan yi",0110304
+136,"農書：畜牧","農書：畜牧","nong shu: xu mu",0110304
+137,"農書：水産","農書：水産","nong shu: shui chan",0110304
+138,"農書：生物","農書：生物","nong shu: sheng wu",0110304
+139,Biographies,"傳記（籠統）","zhuan ji (long tong)",0110210
+140,"傳記：合傳/通錄","傳記：合傳/通錄","zhuan ji: he zhuan / tong lu",0110210
+141,"傳記：雜傳","傳記：雜傳","zhuan ji: za zhuan",0110210
+142,"宗教（籠統）","宗教（籠統）","zong jiao (long tong)",0110313
+144,"Five Phases","五行","wu xing",
+145,"Calendrical calculations","曆算","li suan",
+146,"Spirits and Immortals","神仙","shen xian",
+147,"Categorized Compendia","類事","lei shi",
+148,"Literary Criticism","文史","wen shi",0110400
+150,"Veritable Records","實錄","shi lu",
+,"Genres (General)","著作（籠統）",,01100
+,"Genres (General)","著作（籠統）",,0110000
+,Classics,"經部",,01101
+,"Classics (General)","經部（籠統）",,0110100
+,"Book of Change","易類",,0110101
+,"Book of Documents","尚書類",,0110102
+,"Book of Odes","詩經類",,0110103
+,Rites,"禮類",,0110104
+,Music,"樂類",,0110105
+,"Spring and Autumn Annals","春秋類",,0110106
+,"Four Books","四書類",,0110107
+,"Classics of Filial Piety","孝經類",,0110108
+,"Er Ya","爾雅類",,0110109
+,Philology,"小學類",,0110110
+,Apocrypha,"讖緯類",,0110111
+,History,"史部",,01102
+,"History (General)","史部（籠統）",,0110200
+,"Official Histories","正史類",,0110201
+,"Unofficial Histories","別史類",,0110202
+,Chronicles,"編年類",,0110203
+,"Chronologies of Events","紀事本末類",,0110204
+,"Historical Miscellanies","雜史類",,0110205
+,"History of Local Regimes","載記類",,0110206
+,"Tables of Hisory","史表類",,0110207
+,"Abridgements of History","史鈔類",,0110208
+,"Criticism of History","史評類",,0110209
+,Biographies,"傳記類",,0110210
+,"State Documents","政書類",,0110211
+,Seasons,"時令類",,0110212
+,Geography,"地理類",,0110213
+,Catalogues,"目錄類",,0110214
+,"Stele Inscriptions","金石類",,0110215
+,Master,"子部",,01103
+,"Masters (General)","子部（籠統）",,0110300
+,"Masters in Zhou and Qin Dynasties","周秦諸子類",,0110301
+,Confucianism,"儒學類",,0110302
+,"Military Books","兵書類",,0110303
+,"Agricultural Books","農書類",,0110304
+,Craftsmanship,"工藝類",,0110305
+,Medicine,"醫學類",,0110306
+,Astronomy,"天文算法類",,0110307
+,"Arts of Divination","術數類",,0110308
+,Arts,"藝術類",,0110309
+,"Miscellaneous Treatises","雜學類",,0110310
+,Precedents,"典故類",,0110311
+,Anecdotes,"小說類",,0110312
+,Religion,"宗教類",,0110313
+,Collections,"叢書類",,0110314
+,Collections,"集部",,01104
+,"Collections (General)","集部（籠統）",,0110400

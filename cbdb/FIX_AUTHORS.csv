@@ -1,0 +1,195 @@
+c_textid,c_personid,c_name,c_lastname,c_firstname,c_name_chn,c_addr_id,c_genre_code,c_female,c_floruit,c_birthyear,c_deathyear,c_death_age
+2066,0,"Tao Cheng",Tao,"Cheng,",,7850,3,N,1732,0,0,0
+2095,0,"Qufou Shifan xue yuan lishi xi","Qufou Shifan","xue yuan lishi xi,",,0,0,N,1912,0,0,0
+2126,0,Qosiqui,Qosiqui,,"忽思慧",0,0,N,1331,0,0,0
+2141,0,"Gao Cheng",Gao,"Cheng,","高承",11028,0,N,1080,0,0,0
+2306,0,"Yong Heng",Yong,"Heng,","永享",0,0,N,1175,0,0,0
+2326,0,"Cha Duo",Cha,"Duo,","查鐸",0,0,N,1643,0,0,0
+2329,0,"Zhai Hao",Zhai,Hao,"翟灝",0,0,N,1911,0,0,0
+2333,0,"Chai Jie",Chai,"Jie,","柴杰",0,0,N,1911,0,0,0
+2334,0,"Zhan Ruoshui",Zhan,"Ruoshui,","湛若水",0,0,N,1643,0,0,0
+2446,0,"Yuqin Sirong",Yuqin,"Sirong,",,0,0,N,1294,0,0,0
+2565,0,"Zhen Luan",Zhen,"Luan,","甄鸞",0,0,N,-256,0,0,0
+2719,0,"Cheng Dazhong",Cheng,"Dazhong,","程大中",0,0,N,1911,0,0,0
+2729,0,"Qi Dezhi",Qi,"Dezhi,","齊德之",0,0,N,1367,0,0,0
+2734,0,"Jia Dao",Jia,"Dao,","檟島",0,0,N,841,0,0,0
+2764,0,"Qiao Chuan",Qiao,"Chuan,","樵川",0,0,N,1195,0,0,0
+2781,0,"Qian Bao",Qian,"Bao,","千寶",0,0,N,419,0,0,0
+2797,0,"Le Tac,",Le,"Tac,",,0,0,N,0,0,0,0
+2799,0,"Chng In-ji et al.,",Chng,"In-ji et al.,",,0,0,N,0,0,0,0
+2800,0,"Kim Chong-s et al.,",Kim,"Chong-s et al.,",,0,0,N,0,0,0,0
+2930,0,"Boshulu Zhong,",Boshulu,"Zhong,",,0,0,N,1368,0,0,0
+2977,0,"Fu Chunguan",Fu,"Chunguan,","傅春官",7556,4,N,1911,0,0,0
+2989,0,"Han Baiqian,",Han,"Baiqian,",,0,0,N,0,0,0,0
+3002,0,"Hang Yu",Hang,"Yu,","杭棫",0,0,N,1911,0,0,0
+3019,0,"Xizhai Jushi",Xizhai,"Jushi,","息齋居士",0,0,N,1643,0,0,0
+3020,0,"Xijiao Yesou",Xijiao,"Yesou,","西郊野叟",0,0,N,1279,0,0,0
+3021,0,Xiqing,Xiqing,,,0,0,N,1911,0,0,0
+3028,0,"Xia Shi",Xia,"Shi,","夏時",5333,4,N,1448,0,0,0
+3030,0,"Xiang Weizhen",Xiang,"Weizhen,","項維貞",7213,4,N,1911,0,0,0
+3032,0,"Xiao Ji",Xiao,"Ji,","蕭吉",0,0,N,617,0,0,0
+3053,0,"Xin Shaoye",Xin,"Shaoye,","辛紹業",0,0,N,1788,0,0,0
+3089,0,"Xu Bang",Xu,"Bang,","徐榜",0,0,N,1592,0,0,0
+3112,0,"Xue Shangzhi",Xue,"Shangzhi,","薛尚質",4598,4,N,1551,0,0,0
+3125,0,"Hu Bingqian",Hu,"Bingqian,","胡秉虔",0,0,N,220,0,0,0
+3140,0,"Huangfu Kang",Huangfu,"Kang,","皇甫康",4592,2,N,1518,0,0,0
+3194,0,"Ren Fan",Ren,"Fan,","任蕃",0,0,N,827,0,0,0
+3197,0,"Renxiao huanghou",Renxiao,"huanghou,","仁孝皇后",0,0,N,1424,0,0,0
+3202,0,"Gan Gong,",Gan,"Gong,","甘公",0,0,N,220,0,0,0
+3221,0,"Kawasei Nei",Kawasei,"Nei,","河世寧",0,0,N,0,0,0,0
+3227,0,"Ge Li",Ge,"Li,","葛澧",12672,4,N,1092,0,0,0
+3246,0,"Guang Lu",Guang,"Lu,","鄺露",0,0,N,1635,0,0,0
+3251,0,"Kong Fu",Kong,"Fu,","孔鮒",0,0,N,-210,0,0,0
+3271,0,"Lang Tingji",Lan,"Tingji,","郎廷極",0,0,N,1911,0,0,0
+3272,0,"Lang Tinghuai",Lang,"Tinggui,","郎廷槐",0,0,N,1911,0,0,0
+3273,0,"Leng Qian,",Leng,"Qian,",,0,0,N,1643,0,0,0
+3326,0,Limadou,"Limadou,",,"利瑪竇",0,0,N,0,0,0,0
+3402,0,"Liu Cheng",Liu,"Cheng,","柳埕",0,0,N,762,0,0,0
+3463,0,"Luo Genze",Luo,"Genze,","羅根澤",0,0,N,-207,0,0,0
+3493,0,"Luling Fenglin shuyuan,","Luling Fenglin","shuyuan,","廬陵鳳林書院",15921,0,N,1367,0,0,0
+3502,0,"Lu Bian",Lu,"Bian,","盧辯",0,0,N,580,0,0,0
+3548,0,"Ma Danian",Ma,"Danian,","馬大年",0,0,N,1911,0,0,0
+3592,0,"Mu Nige",Mu,"Nige,","穆尼閣",0,0,N,1911,0,0,0
+3594,0,"Nalan Xingde",Nalan,"Xingde,","納蘭性德",0,0,N,1685,0,0,0
+3599,0,"Nangong Jingyi",Nangong,"Jingyi,","南宮靖一",0,0,N,617,0,0,0
+3610,0,"Nie Xintang",Nie,"Xintang,","聶心湯",5333,3,N,1609,0,0,0
+3616,0,"E Min",E,"Min,","鄂敏",0,0,N,1911,0,0,0
+3631,0,"Ban Gu",Ban,"Gu et al.,","班固",0,0,N,92,0,0,0
+3647,0,"Pei Xiaoyuan",Pei,"Xiaoyuan,","裴孝源",0,0,N,649,0,0,0
+3668,0,"Bian Dashou",Bian,"Dayuan,","邊大綬",4447,15,N,1645,0,0,0
+3670,0,"Bi Yixun",Bi,"Yixun,","畢以珣",0,0,N,1368,0,0,0
+3694,0,"Shen Chaoxuan",Shen,"Chaoxuan,","沈朝宣",5334,3,N,1525,0,0,0
+3745,0,"Shishi daoren",Shishi,"daoren,","石室道人",0,0,N,1643,0,0,0
+3761,0,"Sikong Tu",Sikong,"Tu,","司空圖",0,0,N,906,0,0,0
+3762,0,"Sima Chengzhen",Sima,"Chengzhen,","司麻承禎",0,0,N,700,0,0,0
+3769,0,"Su ?,",Su,"?,","蘇",0,0,N,906,0,0,0
+3814,0,"Sun Bingkui",Sun,"Binggui,","孫炳奎",7602,5,N,1895,0,0,0
+3846,0,"Dai De",Dai,"De,","戴德",0,0,N,220,0,0,0
+3848,0,"Taiping laoren","Taiping laoren,",,"太平老人",0,0,N,1279,0,0,0
+3902,0,"Ding Fu",Ding,"Fu,","丁孚",0,0,N,220,0,0,0
+3925,0,"Cai Fangbing",Cai,"Fangbing,","蔡方炳",0,0,N,1911,0,0,0
+3949,0,"Cui Bao",Cui,"Bao,","崔豹",0,0,N,350,0,0,0
+3967,0,Tulichen,"Tulichen,",,"圖理琛",0,0,N,1715,0,0,0
+3970,0,"Duan Anjie",Duan,"Anjie,","段安節",0,0,N,906,0,0,0
+3980,0,"Dongfang Shuo",Dongfang,"Shuo,","東方朔",0,0,N,-138,0,0,0
+4113,0,"Weichi Shu",Weichi,"Shu,","尉遲樞",0,0,N,873,0,0,0
+4134,0,"Wei Biao",Wei,"Biao,","魏標",0,0,N,1911,0,0,0
+4158,0,"Weng Guangping",Weng,"Guangping,","翁廣平",7688,14,N,1752,0,0,0
+4159,0,Wu,"Wu,",,"吳",0,0,N,1279,0,0,0
+4160,0,"Wu Chansi",Wu,"Chansi,","吳闡思",7530,0,N,1911,0,0,0
+4234,0,Yangmanuo,"Yangmaruo,",,"陽瑪諾",0,0,N,1596,0,0,0
+4235,0,"Yang Bin",Yang,"Bin,","楊賓",0,0,N,1911,0,0,0
+4268,0,"Du Chunsheng",Du,"Chunsheng,",,0,0,N,0,0,0,0
+4291,0,"Huan Kuan,",Huan,"Kuan,",,0,0,N,220,0,0,0
+4320,0,"Yugu laoren","Yugu laoren,",,"愚谷老人",0,0,N,1279,0,0,0
+4372,0,"Yuan Dingyuan",Yuan,"Dingyuan,","袁定遠",0,0,N,1911,0,0,0
+4393,0,"Yun Ge",Yun,"Ge,","惲格",0,0,N,1911,0,0,0
+4431,0,"Qiao Sou",Jiao,"Sou,","樵叟",0,0,N,1195,0,0,0
+4435,0,"Zhuang Shuzu",Zhuang,"Shuzu,","莊述祖",7531,0,N,1809,0,0,0
+4438,0,"Sha Keshi",Sha,"Keshi,","沙克什",0,0,N,1367,0,0,0
+4458,0,"Liu Haosui","Liu Haosui",,"劉號遂",0,0,N,1925,0,0,0
+4465,0,"Rao Zongyi",Rao,Zongyi,"饒宗頤",0,0,N,1946,0,0,0
+4475,0,"Wan Nan",Wan,Nan,"萬楠",7741,3,N,1750,0,0,0
+4491,0,"Xing Bingcheng",Xing,Bingcheng,"刑秉誠",7399,3,N,1719,0,0,0
+4498,0,"Li Ba",Li,Ba,"李拔",7782,3,N,1762,0,0,0
+4535,0,"Shu Jingheng",Shu,Jingheng,"舒景蘅",0,0,N,1915,0,0,0
+4545,0,"Meng Pengnian",Meng,Pengnian,"孟鵬年",0,0,N,1970,0,0,0
+4569,0,"Fang Chengbao",Fang,Chengbao,"方承保",8224,3,N,1790,0,0,0
+4594,0,"Shan Shixing",Shan,Shixing,"單詩興",8474,3,N,1871,0,0,0
+4602,0,"Hong Ruogao",Hong,Ruogao,"洪若皋",7639,3,N,1683,0,0,0
+4605,0,"Ouyang Enlin",Ouyang,Enlin,"歐陽恩霖",8344,3,N,1872,0,0,0
+4627,0,"Yu Baochun",Yu,Baochun,"余保純",8476,3,N,1819,0,0,0
+4635,0,"Xi Lai",Xi,Lai,"錫萊",7915,3,N,1872,0,0,0
+4639,0,"Kang Naixin",Kang,Naixin,"康乃心",7404,3,N,1706,0,0,0
+4645,0,"Liao Biqi",Liao,Biqi,"廖必琦",7848,3,N,1758,0,0,0
+4647,0,"You Duanyou",You,Duanyou,"游端友",7705,3,N,1781,0,0,0
+4652,0,"Wen Bichao",Wen,Bichao,"文筆超",8734,3,N,1877,0,0,0
+4653,0,"Zhou Bin",Zhou,Bin,"周賓",7764,3,N,1891,0,0,0
+4667,0,"Zhang Baoshen",Zhang,Baoshen,"張葆",7797,3,N,1855,0,0,0
+4673,0,"Gong Daojiang",Gong,Daojiang,"龔導江",7409,3,N,1770,0,0,0
+4678,0,"He ?",He,?,"何 ?",8237,3,N,1667,0,0,0
+4691,0,"Song ?",Song,?,"宋 ?",7740,3,N,1673,0,0,0
+4701,0,"Ni Fu",Ni,Fu,"倪傅",7706,3,N,1673,0,0,0
+4707,0,"Cao Jing",Cao,Jing,"曹京",7702,3,N,1768,0,0,0
+4728,0,"Liang Dakun",Liang,Dakun,"粱大鯤",8039,3,N,1741,0,0,0
+4729,0,"Yan Changming",Yan,Changming,"嚴長明",8939,3,N,1779,0,0,0
+4732,0,"Jiang Bingzhang",Jiang,Bingzhang,"姜炳璋",7631,3,N,1758,0,0,0
+4733,0,"Chen ?",Chen,?,"陳 ?",8398,3,N,1899,0,0,0
+4744,0,"Dou Jingyan",Dou,Jingyan,"竇景燕",7321,3,N,1827,0,0,0
+4750,0,"Huang Bencheng",Huang,Bencheng,"黃本誠",8079,3,N,1776,0,0,0
+4766,0,"Ning Kai",Ning,Kai,"甯楷",7536,3,N,1797,0,0,0
+4768,0,"Ye Baoshu",Ye,Baoshu,"葉",0,0,N,1974,0,0,0
+4775,0,"Zu Yongjie",Zu,Yongjie,"祖永杰",7290,3,N,1649,0,0,0
+4783,0,"Tu Ying",Tu,Ying,"屠英",8401,3,N,1833,0,0,0
+4784,0,"Zheng Dajin",Zheng,Dajin,"鄭大進",7284,3,N,1762,0,0,0
+4791,0,"Xiong Luqing",Xiong,Luqing,"熊履青",8806,3,N,0,0,0,0
+4800,0,"Ke Shaomin,",Ke,"Shaomin,","柯劭忞",0,0,N,1367,0,0,0
+4812,0,"Ai Fucun",Ai,"Fucun,","哀馥村",7956,3,N,1910,0,0,0
+4823,0,"Shi Binglin",Shi,"Binglin,","史丙麟",8248,3,N,1906,0,0,0
+4825,0,"Tonghe xian County government,","Tonghe xian","County government,","通河縣政府",0,0,N,1914,0,0,0
+4835,0,"Zhao Bin",Zhao,"Bin,","趙彬",0,0,N,1909,0,0,0
+5730,0,"Jing Fang",Jing,Fang,"景芳",5081,3,N,1506,0,0,0
+5752,0,"Gu Cunren",Gu,Cunren,"顧存仁",4594,3,N,1571,0,0,0
+5760,0,"Mao Dejing",Mao,Dejing,"毛德京",5411,3,N,1556,0,0,0
+5769,0,"Fan Gao",Fan,Gao,"范鎬",4675,3,N,1549,0,0,0
+5778,0,"Min Wenzhen",Min,Wenzhen,"閔文振",5990,3,N,1538,0,0,0
+5786,0,"Fei Cai",Fei,Cai,"費寀",5451,3,N,1525,0,0,0
+5793,0,"Bao Daguan",Bao,Daguan,"包大爟",4876,3,N,1573,0,0,0
+5799,0,"An Du",An,Du,"安都",5033,3,N,1524,0,0,0
+5811,0,"Deng Fu",Deng,Fu,"鄧韍",4924,3,N,1527,0,0,0
+5823,0,"Tan Dachu",Tan,Dachu,"譚大初",6096,3,N,1523,0,0,0
+5852,0,"Wenren Quan",Wenren,Quan,"聞人詮",4630,3,N,1538,0,0,0
+5855,0,"Zeng Caihan",Zeng,Caihan,"曾才漢",5419,3,N,1540,0,0,0
+5857,0,"Tian Guan",Tian,Guan,"田琯",5404,3,N,1579,0,0,0
+5869,0,"Lian Kuang",Lian,Kuang,"連",4554,3,N,1531,0,0,0
+5879,0,"Guan Daxun",Guan,Daxun,"管大勳",5492,3,N,1572,0,0,0
+5889,0,"Yi Shizhong",Yi,Shizhong,"易時中",4922,3,N,1540,0,0,0
+5910,0,"Chu Huan",Chu,Huan,"褚宦",5043,3,N,1545,0,0,0
+5915,0,"Tong Chengxu",Tong,Chengxu,"童承敘",5522,3,N,1531,0,0,0
+5920,0,"Zhong Chongwen",Zhong,Chongwen,"鍾崇文",5611,3,N,1570,0,0,0
+6097,0,Airulue,Airulue,,"艾儒略",0,0,N,1643,0,0,0
+6110,0,"Lei Fu",Lei,"Fu,","雷福",4459,3,N,1547,0,0,0
+6118,0,"Chao Li",Chao,"Li,","晁瑮",4522,3,N,1558,0,0,0
+6136,0,"Ji Dagang",Ji,"Dagang,","紀大綱",4404,3,N,1643,0,0,0
+6140,0,"Mei Shoude",Mei,"Shoude,","梅守德",4562,3,N,1556,0,0,0
+6147,0,"Qin Liang",Qin,"Liang,","秦粱",4612,3,N,1574,0,0,0
+6182,0,"Xie Cunren",Xie,"Cunren,","謝存仁",4691,3,N,1619,0,0,0
+6205,0,"Yao Ben",Yao,"Ben,","姚本",4915,3,N,1545,0,0,0
+6232,0,"Gou Chun",Gou,"Chun,","緱純",4751,3,N,1577,0,0,0
+6238,0,"Lai Lin",Lai,"Lin,","來臨",4812,3,N,1635,0,0,0
+6244,0,"Niu Menggeng",Niu,"Menggeng,","牛孟耕",5129,3,N,1566,0,0,0
+6250,0,"Shao Bi",Shao,"Bi,","邵苾",5132,3,N,1542,0,0,0
+6251,0,"Ju Ru`an",Ju,"Ru`an,","苟汝安",5114,3,N,1536,0,0,0
+6254,0,"Shou Lian",Shou,"Lian,","壽濂",5055,3,N,1566,0,0,0
+6263,0,"Hao Chi",Hao,"Chi,","郝持",5082,3,N,1619,0,0,0
+6275,0,"Guo Congdao",Guo,"Congdao,","郭從道",5278,3,N,1619,0,0,0
+6283,0,"Nan Daji",Nan,"Daji,","南大吉",5208,3,N,1541,0,0,0
+6290,0,"Kou Shen",Kou,"Shen,","寇慎",5214,3,N,1618,0,0,0
+6305,0,"Tang Boyuan",Tang,"Boyuan,","唐伯元",5480,3,N,1578,0,0,0
+6309,0,"Pu Bingquan",Pu,"Bingquan,","蒲秉權",5457,3,N,1618,0,0,0
+6316,0,"Lin Aimin",Lin,"Aimin,","林愛民",5548,3,N,1554,0,0,0
+6341,0,"Mo Dan",Mo,"Dan,","莫旦",5404,3,N,1487,0,0,0
+6353,0,"Hou Gun",Hou,"Gun,","侯袞",6037,3,N,1619,0,0,0
+6362,0,"Che Mingshi",Che,"Mingshi,","車鳴時",6006,3,N,1609,0,0,0
+6612,0,"Yin Anzhong",Yin,"Anzhong,","尹安中",14120,3,N,1200,0,0,0
+6673,0,"Qianlong Emperor",Qianlong,"Di,","乾隆帝",0,0,N,1765,0,0,0
+6678,0,"Shang Weijun",Shang,"Weijun,","商維濬",5398,0,N,1643,0,0,0
+6679,0,"Zuo Gui",Zuo,"Gui,","左圭",0,0,N,1279,0,0,0
+6843,0,"Li Fu","Li Fu,",,"李紱",7896,1,N,1732,0,0,0
+6873,0,"Dong Fengtan",Dong,"Fengtan,","董豐坦",7612,1,N,1796,0,0,0
+6894,0,"Peng Shaosheng",Peng,Shaosheng,"彭紹升",7540,1,N,1796,0,0,0
+6922,0,"Wang Basun",Wang,"Basun,","王芭孫",7524,1,N,1815,0,0,0
+6927,0,"Gui Fu",Gui,"Fu,","桂馥",7999,1,N,1792,0,0,0
+6935,0,"Zhu Bin",Zhu,"Bin,","朱彬",7578,1,N,1812,0,0,0
+6973,0,"Chen Kui",CHen,"Kui,","陳揆",7546,1,N,1825,0,0,0
+6990,0,"Jin E",Jin,"E,","金鶚",7755,1,N,1819,0,0,0
+6994,0,"Feng Dengfu",Feng,"Dengfu,","馮登府",7620,1,N,1838,0,0,0
+7001,0,"Sheng Dashi",Sheng,"Dashi,","盛大士",7612,1,N,1831,0,0,0
+7017,0,"Pan Deyu",Pan,"Deyu,","潘德輿",7580,1,N,1839,0,0,0
+7040,0,"Long Qirui",Long,"Qirui,","龍啟瑞",8610,1,N,1858,0,0,0
+7047,0,"Zou Boqi",Zou,"Boqi,","鄒伯奇",8386,1,N,1869,0,0,0
+7078,0,"Qiang Ruxun",Qiang,"Ruxun,","強汝詢",7554,1,N,1883,0,0,0
+7097,0,"Hua Hengfang",Hua,"Hengfang,","華蘅芳",7535,1,N,1892,0,0,0
+7105,0,"Kuai Guangdian",Kuai,"Guangdian,","蒯光典",7695,1,N,1910,0,0,0
+7110,0,"Pi Xirui",Pi,"Xirui,","皮錫瑞",8294,1,N,1908,0,0,0
+7510,0,"Yuwen Maozhao",Yuwen,"Maozhao,","宇文懋昭",0,0,N,1234,0,0,0

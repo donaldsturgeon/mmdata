@@ -1,0 +1,23 @@
+c_addr_type,c_addr_desc,c_addr_desc_chn,c_addr_note
+-1,"[Missing Data]","[缺乏信息]",
+0,unknown,"未詳",
+1,"Basic Affiliation","籍貫(基本地址)","This field is different from the other fields. It assigns a person to a single place for indexing purposes. This field requires judgment based on information in the other fields. There should only be one entry."
+2,"Moved to","遷住地","multiple entries possible"
+3,"Former Address","前住地","This field is used for the address which people left when they migrated to another place. It is only used for the person or generation that migrates. It may be different from Ancestral Address祖籍."
+4,"Last Known Address","最後所知地","leave data as is"
+5,"Ancestral Address","祖籍","Generally only one entry"
+6,"Actual Residence","落籍(實際居住地)","Generally only one entry"
+7,"Household Registration Address","本貫","This is a formal legal designation (e.g. as on 1148 jinshi list)"
+8,"Birth Address","出生地","only one entry"
+9,"Burial Address","葬地","multiple entries possible (e.g. reburial elsewhere)"
+10,"Death Address","死所",
+11,"Migration Route of Branch","本族支裔遷徙路線",
+12,"visited or went to","遊歷或曾經到過","This is meant as a purposeful journey of some kind or a stopping off at a place, more than merely passing through en route to somewhere else."
+13,"Eight Banner Qing Dynasty","八旗清代",
+14,"alternate basic affiliation","另一籍貫(基本地址)",
+15,"place of refuge","避兵之地","also 避亂. used when the place of refuge is given"
+16,"Household address","戶籍地","For Ming households"
+17,"Place of exile","流放之地",
+18,,"卜居",
+19,,"僑居",
+20,,"坐徙",
