@@ -3,7 +3,7 @@ DataURL,https://raw.githubusercontent.com/donaldsturgeon/mmdata/master/biogref_d
 ResourceTemplate,http://authority.dila.edu.tw/person/search.php?aid={person_id}
 ShortName,DDBC
 LongName,Buddhist Studies Person Authority Databases
-MetaURL,http://ctext.org/static/biogref_ddbc_meta.csv
+MetaURL,https://raw.githubusercontent.com/donaldsturgeon/mmdata/master/biogref_ddbc_meta.csv
 SchemaURL,http://ctext.org/static/biogref_schema.csv
 License,CC BY-SA
 ProjectLink,http://authority.dila.edu.tw/
