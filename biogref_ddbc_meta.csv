@@ -1,5 +1,5 @@
 Field,Value
-DataURL,http://ctext.org/static/biogref_ddbc_meta.csv
+DataURL,https://raw.githubusercontent.com/donaldsturgeon/mmdata/master/biogref_ddbc_data.csv
 ResourceTemplate,http://authority.dila.edu.tw/person/search.php?aid={person_id}
 ShortName,DDBC
 LongName,Buddhist Studies Person Authority Databases
