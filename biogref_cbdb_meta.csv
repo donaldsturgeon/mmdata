@@ -5,5 +5,5 @@ ShortName,CBDB
 LongName,China Biographical Database Project
 MetaURL,https://raw.githubusercontent.com/donaldsturgeon/mmdata/master/biogref_cbdb_meta.csv
 SchemaURL,http://ctext.org/static/biogref_schema.csv
-License,CC NC-SA
+License,CC BY-NC-SA
 ProjectLink,https://projects.iq.harvard.edu/cbdb/home
