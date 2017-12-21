@@ -1,5 +1,5 @@
 Field,Value
-DataURL,https://raw.githubusercontent.com/donaldsturgeon/mmdata/master/biogref_cbdb_data.csv
+DataURL,https://raw.githubusercontent.com/cbdb-project/biogref_CBDB/master/data.csv
 ResourceTemplate,http://cbdb.fas.harvard.edu/cbdbapi/person.php?id={person_id}&o=html
 ShortName,CBDB
 LongName,China Biographical Database Project
